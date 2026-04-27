@@ -84,7 +84,7 @@ https://github.com/user-attachments/assets/787543e8-ebcf-4e53-ac21-728905ed1d6e
 
 
 
-#💡 Future Improvements
+# 💡 Future Improvements
 - 💳 Payment integration
 - ❤️ Wishlist system
 - 📦 Order tracking system
